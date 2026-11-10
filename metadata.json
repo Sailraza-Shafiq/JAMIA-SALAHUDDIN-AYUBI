@@ -1,0 +1,6 @@
+{
+  "name": "Jamia Salahuddin Ayubi - Digital Education Ecosystem",
+  "description": "Comprehensive digital education platform for Jamia Salahuddin Ayubi, featuring institute portal, student admissions, digital ID card generator, academic management, and AI student advisor under the leadership of Muneeb ur Rehman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
